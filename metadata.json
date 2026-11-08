@@ -1,0 +1,6 @@
+{
+  "name": "PayRadise",
+  "description": "PayRadise — райский оазис для покупки и продажи игровой валюты в Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
